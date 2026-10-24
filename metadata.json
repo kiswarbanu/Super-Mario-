@@ -1,0 +1,6 @@
+{
+  "name": "Super Mario Classic",
+  "description": "A classic retro Super Mario platformer game with responsive physics, power-ups, Goombas, Koopas, pipes, mystery blocks, and authentic audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
